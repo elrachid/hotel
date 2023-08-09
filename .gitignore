@@ -5,3 +5,6 @@
 data/*
 web/*
 /local/web/nbproject/private/
+local/data/
+local/web/
+.idea/
