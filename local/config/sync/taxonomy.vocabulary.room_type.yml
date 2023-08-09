@@ -1,0 +1,8 @@
+uuid: 90e93e71-1e0c-4cd8-807a-6c02d36a2c3d
+langcode: en
+status: true
+dependencies: {  }
+name: 'Room Type'
+vid: room_type
+description: ''
+weight: 0
