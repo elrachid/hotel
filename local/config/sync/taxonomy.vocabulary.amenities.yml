@@ -1,0 +1,8 @@
+uuid: 18185713-9a0e-4c2b-b05b-862d77d19a21
+langcode: en
+status: true
+dependencies: {  }
+name: Amenities
+vid: amenities
+description: 'Room amenities like TV, Wi-Fi, minibar, etc.'
+weight: 0

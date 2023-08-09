@@ -1,0 +1,23 @@
+uuid: 970b661c-bd10-40b4-b36b-50a7f6f89d50
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_room_number
+    - node.type.room
+id: node.room.field_room_number
+field_name: field_room_number
+entity_type: node
+bundle: room
+label: 'Room Number'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: 1
+  max: 80
+  prefix: ''
+  suffix: ''
+field_type: integer

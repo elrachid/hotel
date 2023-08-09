@@ -1,0 +1,8 @@
+uuid: 959d56a9-aae9-4c5d-8a90-5ff08739f64a
+langcode: en
+status: true
+dependencies: {  }
+name: 'Bed Types'
+vid: bed_types
+description: 'The types of beds in the room (e.g., king, queen, twin).'
+weight: 0

@@ -1,8 +1,8 @@
-uuid: 90e93e71-1e0c-4cd8-807a-6c02d36a2c3d
+uuid: 1bb33920-3991-4b10-b804-febacd719e90
 langcode: en
 status: true
 dependencies: {  }
 name: 'Room Type'
 vid: room_type
-description: ''
+description: 'Type of room (e.g., single, double, suite).'
 weight: 0

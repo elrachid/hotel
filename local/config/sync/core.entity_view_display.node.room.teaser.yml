@@ -1,12 +1,21 @@
-uuid: 99869a81-b71b-4f73-8080-e55e60755483
+uuid: 623f68ec-7f76-44e1-ac8a-9ef4cd54a9d1
 langcode: en
 status: true
 dependencies:
   config:
     - core.entity_view_mode.node.teaser
     - field.field.node.room.body
-    - field.field.node.room.field_number
-    - field.field.node.room.field_type
+    - field.field.node.room.field_additional_notes
+    - field.field.node.room.field_amenities
+    - field.field.node.room.field_availability
+    - field.field.node.room.field_bed_types
+    - field.field.node.room.field_capacity
+    - field.field.node.room.field_floor
+    - field.field.node.room.field_price
+    - field.field.node.room.field_room_image
+    - field.field.node.room.field_room_number
+    - field.field.node.room.field_room_type
+    - field.field.node.room.field_size
     - node.type.room
   module:
     - text
@@ -30,5 +39,14 @@ content:
     third_party_settings: {  }
     region: content
 hidden:
-  field_number: true
-  field_type: true
+  field_additional_notes: true
+  field_amenities: true
+  field_availability: true
+  field_bed_types: true
+  field_capacity: true
+  field_floor: true
+  field_price: true
+  field_room_image: true
+  field_room_number: true
+  field_room_type: true
+  field_size: true

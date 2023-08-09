@@ -1,0 +1,8 @@
+uuid: 87ec0390-2745-46b3-83bb-867f07b8b3fc
+langcode: en
+status: true
+dependencies: {  }
+name: View
+vid: view
+description: 'The type of view from the room (e.g., city, ocean, garden).'
+weight: 0

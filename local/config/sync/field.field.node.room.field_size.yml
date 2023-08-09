@@ -1,0 +1,23 @@
+uuid: 7fea02c2-ab98-429d-890f-9aec4f906d03
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_size
+    - node.type.room
+id: node.room.field_size
+field_name: field_size
+entity_type: node
+bundle: room
+label: Size
+description: 'The dimensions of the room.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: float

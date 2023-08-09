@@ -1,4 +1,4 @@
-uuid: c19efa1c-3b17-4825-a1a5-6a5979720809
+uuid: 5c304762-91e1-4d24-952a-35b3e76ddd13
 langcode: en
 status: true
 dependencies:
@@ -11,8 +11,8 @@ id: node.room.body
 field_name: body
 entity_type: node
 bundle: room
-label: Body
-description: ''
+label: Description
+description: 'A description of the room''s features, amenities, and layout.'
 required: false
 translatable: true
 default_value: {  }

@@ -1,17 +1,15 @@
-uuid: 009c9892-3bef-4aef-b6cd-3191ea18570e
+uuid: 0b0c0323-e11c-4215-bc3e-36ad16579a53
 langcode: en
 status: true
 dependencies:
   module:
     - node
-    - text
-id: node.field_number
-field_name: field_number
+id: node.field_size
+field_name: field_size
 entity_type: node
-type: text
-settings:
-  max_length: 255
-module: text
+type: float
+settings: {  }
+module: core
 locked: false
 cardinality: 1
 translatable: true
